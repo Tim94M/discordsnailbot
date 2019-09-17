@@ -1,0 +1,15 @@
+{
+    "name": "snail-bot",
+    "version": "0.4.0",
+    "description": "Posts snail video to the channel",
+    "main": "app.js",
+    "author": "BSPDelta_09",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1",
+        "axios": "^0.16.2"
+    }
+}
